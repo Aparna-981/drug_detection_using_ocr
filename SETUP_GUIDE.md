@@ -1,4 +1,4 @@
-# Smart Banned Drug Detection System
+# Drug Detection Using OCR
 ## Complete Setup Guide — PaddleOCR Edition
 ### Step-by-step for Beginners
 
@@ -7,7 +7,7 @@
 ## 📁 Project Folder Structure
 
 ```
-drug_detector_v2/
+drug_detection_using_ocr/
 │
 ├── backend/                          ← Python server (runs on your PC)
 │   ├── main.py                       ← FastAPI server (start this first)
@@ -501,7 +501,7 @@ Display result card:
 
 ---
 
-*Project: Smart Banned Drug Detection System*
+*Project: Drug Detection Using OCR*
 *OCR Engine: PaddleOCR v2.7 (CPU / GPU)*
 *Stack: Flutter + Python FastAPI + PaddleOCR + FuzzyWuzzy*
 *Dataset: CDSCO NSQ Monthly Alerts*

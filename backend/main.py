@@ -19,7 +19,7 @@ from pdf_converter import convert_pdf_to_csv
 from excel_converter import convert_excel_to_db
 
 app = FastAPI(
-    title="Drug Detection API v3",
+    title="Drug Detection Using OCR",
     description="Smart Banned Drug Detection — SQLite + PaddleOCR",
     version="3.0.0",
 )

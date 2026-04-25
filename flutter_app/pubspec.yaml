@@ -1,4 +1,4 @@
-name: drug_detector
+name: drug_detection_using_ocr
 description: Smart Banned Drug Detection System — PaddleOCR Edition
 publish_to: 'none'
 version: 2.0.0+1
