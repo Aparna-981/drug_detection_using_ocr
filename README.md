@@ -43,6 +43,18 @@ drug_detection_using_ocr/
 ```
 
 ---
+## Demo Video
+
+
+
+
+https://github.com/user-attachments/assets/3b3c5283-4fd4-4e86-a95e-fa82b12320ad
+
+
+
+
+
+
 
 ## 🚀 Quick Start
 
