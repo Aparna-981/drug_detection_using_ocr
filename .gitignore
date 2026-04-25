@@ -1,0 +1,35 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.py[cod]
+*$py.class
+backend/nsq_database.db
+backend/nsq_data.csv
+backend/nsq_debug_output.csv
+backend/uploads/
+
+# Flutter
+flutter_app/.dart_tool/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/.packages
+flutter_app/build/
+flutter_app/ios/Flutter/Generated.xcconfig
+flutter_app/ios/Flutter/flutter_export_environment.sh
+flutter_app/android/app/google-services.json
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other
+test_op.txt
+uploads/
+tmp/
+nsq_database.db
+nsq_data.csv

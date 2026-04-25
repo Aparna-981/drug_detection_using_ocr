@@ -1,0 +1,30 @@
+name: drug_detector
+description: Smart Banned Drug Detection System — PaddleOCR Edition
+publish_to: 'none'
+version: 2.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  http_parser: ^4.0.2
+  image_picker: any
+  image_cropper: any
+  file_picker: any
+  cupertino_icons: ^1.0.2
+
+dependency_overrides:
+  image_cropper_for_web: 6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
